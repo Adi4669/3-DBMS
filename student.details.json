@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6927e14d52172e252ddd4adf"
+  },
+  "Rollno": 10,
+  "Age": 18,
+  "Name": "ABC",
+  "Contact": 989898989,
+  "EmailId": "newemail10@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6927e14d52172e252ddd4ae0"
+  },
+  "Rollno": 11,
+  "Age": 18,
+  "Name": "FEM",
+  "Contact": 989898988,
+  "EmailId": "def11@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6927e14d52172e252ddd4ae1"
+  },
+  "Rollno": 12,
+  "Age": 18,
+  "Name": "GHI",
+  "Contact": 989898987,
+  "EmailId": "ghi12@gmail.com"
+}]
